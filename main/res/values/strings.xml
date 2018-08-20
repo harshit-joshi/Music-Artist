@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Music Artist</string>
+    <string name="track">Track</string>
+    <string name="add_track">Add Track</string>
+    <string name="add">ADD</string>
+    <string name="enter_new_name">Enter New Name</string>
+    <string name="textview_name">TextView Name</string>
+    <string name="enter_track_name">Enter Track Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_artist">Add Artist</string>
+    <string name="genres">Genres</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Rap</item>
+        <item>Melody</item>
+        <item>Classic</item>
+    </array>
+</resources>

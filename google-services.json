@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910314985032",
+    "firebase_url": "https://merchandise-fbbbf.firebaseio.com",
+    "project_id": "merchandise-fbbbf",
+    "storage_bucket": "merchandise-fbbbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910314985032:android:d0583335a50fde17",
+        "android_client_info": {
+          "package_name": "com.example.harshitjoshi.musicartist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910314985032-n140skejqdhtaprmmsa60cj6jusu14ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshitjoshi.musicartist",
+            "certificate_hash": "b7e3198b6197d17d3a7b7611615b00880f2f0508"
+          }
+        },
+        {
+          "client_id": "910314985032-nsqajplpn9rc4ngm2eh8gehmilvqbje2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtT0C03yIY0rmUTQnKLC5YgqjiTvPTwr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910314985032-nsqajplpn9rc4ngm2eh8gehmilvqbje2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

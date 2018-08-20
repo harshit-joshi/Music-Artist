@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddTrackActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewArtistName"
+        android:textAlignment="center"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>
+    <EditText
+        android:id="@+id/editTextTrackName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:padding="15dp"
+        android:hint="@string/enter_track_name" />
+
+  <SeekBar
+      android:id="@+id/seekBarRating"
+      android:max="5"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+    <Button
+        android:id="@+id/addTrackButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/add"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:text="@string/track"
+        android:id="@+id/textTrack"
+        android:textAlignment="center"/>
+
+    <ListView
+        android:id="@+id/listViewTrack"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       />
+</LinearLayout>
