@@ -7,5 +7,6 @@ In this small application we perform implenetation of these application
 2.Data is retreved from  firebase server
 3.Retreive data is updateable for making application really short only updation can be done in artist
 4.Deletion is done We can delete artist from the list and new list will be updated again
+[![Screenshot_20180820_122057.jpg](https://s33.postimg.cc/4xh6s377z/Screenshot_20180820_122057.jpg)](https://postimg.cc/image/dsi12lw0b/)
 
 
